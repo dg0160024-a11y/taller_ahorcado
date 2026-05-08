@@ -35,7 +35,7 @@ En resumen, este proyecto demuestra cómo desarrollar una aplicación interactiv
 
 • Daniel Gomez Yepes.
 
-• Juan Felipe Vanegas Rojas.
+• Juan Felipe Vanegas Rojas
 
 ##### 🔗 ENLACES DE INVESTIGACIÓN:
 https://www.w3schools.com/java/java_user_input.asp
