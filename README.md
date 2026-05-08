@@ -33,7 +33,7 @@ En resumen, este proyecto demuestra cómo desarrollar una aplicación interactiv
 - 
 #### 👨‍💻 EL EQUIPO SE CONFORMA POR 🌐:
 
-• Daniel Gomez Yepes.
+• Daniel Gomez Yepes
 
 • Juan Felipe Vanegas Rojas
 
