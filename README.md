@@ -31,7 +31,7 @@ En resumen, este proyecto demuestra cómo desarrollar una aplicación interactiv
 - Mensajes interactivos para el usuario
 
 - 
-#### 👨‍💻 EL EQUIPO SE CONFORMA POR 🌐:
+####  EL EQUIPO SE CONFORMA POR 🌐:
 
 • Daniel Gomez Yepes
 
